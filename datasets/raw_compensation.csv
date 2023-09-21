@@ -1,4 +1,4 @@
-rank,name,company_headquarters,total_pay,%_change,cash_pay,equity_pay,other_pay,ration_ceo_pay_to_avg_industry_worker_pay
+rank,name,company_headquarters,total_pay,%_change,cash_pay,equity_pay,other_pay,ratio_ceo_pay_to_avg_industry_worker_pay
 1,Mark V. Hurd*,Oracle (Redwood City),$53.25 ,(No previous year),$0.95 ,$52.27 ,$0.02 ,362.0
 2,Safra A. Catz*,Oracle (Redwood City),$53.24 ,(No previous year),$0.95 ,$52.27 ,$0.02 ,362.0
 3,Robert A. Iger,Walt Disney (Burbank),$44.91 ,-3%,$24.89 ,$17.28 ,$2.74 ,477.0
