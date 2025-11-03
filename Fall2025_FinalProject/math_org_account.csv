@@ -1,0 +1,263 @@
+DATE,BALANCE,CHECK,WITHDRAWAL,PAYEE,DEPOSIT,MOTHER_INSTITUTION Code,MEETING_ID,KR_C8_SUBCATEGORIES,EXPLANATION
+1/1/2015,"$14,494.34 ", , , , , , , ,New Academic Year;  Carry over from 2014
+2/5/2015,"$14,494.34 ",,,,$14.65 ,B10,FA14, ,MOTHER_INSTITUTION Fall 2014 Book Sales
+2/19/2015,"$14,508.99 ",107,$207.99 ,C. B.,,C3,SP15, ,Reimbursement for BEST_MATH_ORG_EVER S15 meeting postcards
+3/11/2015,"$14,301.00 ",108,$772.80 ,K. R.,,C8,SP15, ,Reimbursement for BEST_MATH_ORG_EVER S15 T-shirts
+3/11/2015,"$13,528.20 ",,,,"$2,638.06 ",B3,SP15, ,BEST_MATH_ORG_EVER Fees for S15 meeting transferred from PayPal
+3/16/2015,"$16,166.26 ",,,,$327.00 ,B3,SP15, ,BEST_MATH_ORG_EVER U.S. Mail payments for S15 meeting (Fourier & Maxwell)
+3/16/2015,"$16,493.26 ",,,,"$1,830.00 ",B3,SP15, ,BEST_MATH_ORG_EVER On Site fees from S15 meeting (Fourier & Maxwell)
+3/16/2015,"$18,323.26 ",,,,$153.00 ,B4,SP15, ,BEST_MATH_ORG_EVER Silent Auction Proceeds for S15
+3/17/2015,"$18,476.26 ",109,$32.00 ,K. R.,,C8,SP15, ,Reimbursment for overpayment for S15 meeting
+3/17/2015,"$18,444.26 ",110,$59.63 ,J. J.,,C8,SP15, ,Reimbursement for picture frames for student speaker certificates S15
+3/17/2015,"$18,384.63 ",111,$87.11 ,B. G.,,C8,SP15, ,Reimbursement for prizes for S15 meeting
+3/17/2015,"$18,297.52 ",112,$578.62 ,F. F.,,C9,SP15,,Reimbursement of speaker travel expenses for S15
+3/17/2015,"$17,718.90 ",113,$858.68 ,E. B.,,C9,SP15,,Reimbursement of speaker travel expenses for S15
+4/7/2015,"$16,860.22 ",114,$728.12 ,A. H.,,C9,SP15,,Reimbursement of speaker travel expenses for S15
+4/8/2015,"$16,132.10 ",,,,$47.00 ,B3,SP15,,Late arrival registration fee for S15 meeting (Minkowski)
+4/8/2015,"$16,179.10 ",115,$20.00 ,C. W.,,C8,SP15,,Reimbursement for student registration fee
+4/8/2015,"$16,159.10 ",116,$250.00 ,A. C.,,C8,SP15,,Reimbursement for overpayment for S15 meeting
+4/8/2015,"$15,909.10 ",[116],$60.88 ,(one check),,C9,SP15,,Reimbursement for speaker dinner fees
+4/8/2015,"$15,848.22 ",117,"$4,356.40 ",Fourier & Maxwell College,,C8,SP15,,Payment for S15 BEST_MATH_ORG_EVER meeting (catering)
+4/8/2015,"$11,491.82 ",[117],$435.05 ,(one check),,C8,SP15,,Payment for S15 BEST_MATH_ORG_EVER meeting (copying)
+4/8/2015,"$11,056.77 ",[117],$387.61 ,,,C8,SP15,,Payment for S15 BEST_MATH_ORG_EVER meeting (speaker lodging)
+4/8/2015,"$10,669.16 ",[117],$277.42 ,,,C8,SP15,,Payment for S15 BEST_MATH_ORG_EVER meeting (supplies)
+6/19/2015,"$10,391.74 ",118,$50.22 ,K. R.,,C14,SP15,,Reimbursement for extra BEST_MATH_ORG_EVER S15 T-shirts
+6/25/2015,"$10,341.52 ",119,$200.00 ,M”bius College,,C8,SP16,,Deposit for Spring 2016 BEST_MATH_ORG_EVER meeting at M”bius College
+7/22/2015,"$10,141.52 ",,,,"$1,447.00 ",B1,,,MOTHER_INSTITUTION Subvention and Travel Reimbursement Check
+8/17/2015,"$11,588.52 ",,,,$2.66 ,B10,SP15,,MOTHER_INSTITUTION Spring 2015 Book Sales
+10/20/2015,"$11,591.18 ",121*,$318.20 ,C. B.,,C3,FA15,,Reimbursement for BEST_MATH_ORG_EVER F15 meeting postcards
+11/2/2015,"$11,272.98 ",122,$25.00 ,K. A.,,C8,FA15-CC,,Reimbursement for overpayment for F15 Careers Conference
+11/5/2015,"$11,247.98 ",123,"$1,144.75 ",Turing University Math Department,,C8,FA15-CC,,Payment for Fall 2015 Careers Conference (catering)
+11/13/2015,"$10,103.23 ",120*,$200.00 ,F. G.,,C13,,,BEST_MATH_ORG_EVER Student Paper Competiton Winner's Award
+11/13/2015,"$9,903.23 ",,,,$150.00 ,B3,FA15-CC,,On-site registration for F15 Careers Conference
+11/16/2015,"$10,053.23 ",,,,"$2,487.87 ",B3,FA15,,BEST_MATH_ORG_EVER Fees for F15 meeting transferred from PayPal
+11/16/2015,"$12,541.10 ",,,,$844.00 ,B3,FA15,,BEST_MATH_ORG_EVER On Site fees from F15 meeting (Dirac Valley)
+11/16/2015,"$13,385.10 ",,,,$101.00 ,B4,FA15,,BEST_MATH_ORG_EVER Silent Auction Proceeds for F15
+11/16/2015,"$13,486.10 ",124,$20.00 ,N. M.,,C8,FA15,,Reimbursement for overpayment for F15 BEST_MATH_ORG_EVER meeting
+11/16/2015,"$13,466.10 ",125,$173.31 ,P. G.,,C9,FA15,,Reimbursement of speaker travel expenses for F15
+11/16/2015,"$13,292.79 ",126,$56.65 ,J. J.,,C8,FA15,,Reimbursement for picture frames for student speaker certificates F15
+11/25/2015,"$13,236.14 ",,,,$62.00 ,B3,FA15,,Late arrival registration fee for F15 meeting 
+11/25/2015,"$13,298.14 ",,,,$30.00 ,B4,FA15,,Late arrival payment for F15 Silent Auction book
+12/21/2015,"$13,328.14 ",127,"$1,573.90 ","Math Dept, Dirac Valley",,C8,FA15,,Payment for F15 BEST_MATH_ORG_EVER meeting (catering & Conference Call)
+3/9/2016,"$11,754.24 ",128,$318.27 ,C. B.,,C3,SP16,,Reimbursement for BEST_MATH_ORG_EVER S16 meeting postcards
+3/9/2016,"$11,435.97 ",129,$500.00 ,MOTHER_INSTITUTION (c/o S. T.),,C13,,,Crawford Award Fund Contribution
+4/4/2016,"$10,935.97 ",,,,"$2,291.45 ",B3,SP16,,BEST_MATH_ORG_EVER Fees for S16 meeting transferred from PayPal
+4/4/2016,"$13,227.42 ",,,,$116.00 ,B3,SP16,,BEST_MATH_ORG_EVER U.S. Mail payments for S16 meeting (M”bius)
+4/4/2016,"$13,343.42 ",,,,$824.00 ,B3,SP16,,BEST_MATH_ORG_EVER On Site fees from S16 meeting (M”bius)
+4/4/2016,"$14,167.42 ",,,,$83.00 ,B3,SP16,,BEST_MATH_ORG_EVER Silent Auction Proceeds for S16
+4/4/2016,"$14,250.42 ",130,$40.28 ,J. J.,,C8,SP16,,Reimbursement for picture frames for student speaker certificates S16
+4/4/2016,"$14,210.14 ",131,$120.00 ,M. F.,,C8,SP16,,Reimbursement for Student Competition Amazon gift cards S16
+4/4/2016,"$14,090.14 ",132,$121.00 ,G. C.,,C9,SP16,,Reimbursement of speaker travel expenses for S16
+4/13/2016,"$13,969.14 ",133,$175.82 ,J&J Transportation,,C9,SP16,,Airport Transportation for S16 BEST_MATH_ORG_EVER speaker S. W.
+4/15/2016,"$13,793.32 ",135**,"$2,394.00 ",M”bius College,,C8,SP16,,Payment for S16 BEST_MATH_ORG_EVER meeting (catering)
+4/19/2016,"$11,399.32 ",136,$468.20 ,S. W.,,C9,SP16,,Reimbursement of speaker travel expenses for S16
+4/19/2016,"$10,931.12 ",137,"$1,033.50 ",M”bius College,,C8,SP16,,Payment for S16 BEST_MATH_ORG_EVER meeting (tech support and facilities)
+5/12/2016,"$9,897.62 ",138,$500.00 ,MOTHER_INSTITUTION (c/o S. T.),,C13,,,Crawford Award Fund Contribution
+9/28/2016,"$9,397.62 ",,,,"$1,354.11 ",B1,,,MOTHER_INSTITUTION Subvention Reimbursement Check
+10/13/2016,"$10,751.73 ",139,$172.78 ,E. U.,,C3,FA16,,Reimbursement for BEST_MATH_ORG_EVER/neighbor section F16 meeting postcards
+11/21/2016,"$10,578.95 ",,,,$898.00 ,B3,FA16,,BEST_MATH_ORG_EVER/neighbor section Section On-Site and US Mail fees for F16 (Volta)
+11/22/2016,"$11,476.95 ",,,,"$3,549.30 ",B3,FA16,,BEST_MATH_ORG_EVER/neighbor section Section Fees for F16 meeting transferred from PayPal
+12/7/2016,"$15,026.25 ",140,$47.70 ,J. J.,,C8,FA16,,Reimbursement for picture frames for student speaker certificates F16
+12/7/2016,"$14,978.55 ",141,$100.00 ,M. F.,,C8,FA16,,Reimbursement for Student Competition Amazon gift cards F16
+12/20/2016,"$14,878.55 ",142,"$2,142.77 ",MOTHER_INSTITUTION-neighbor section,,C8,FA16,,Reconciliation for fall 2016 BEST_MATH_ORG_EVER/neighbor section joint meeting at Volta
+1/9/2017,"$12,735.78 ",143,"$1,000.00 ",MOTHER_INSTITUTION (c/o M. P.),,C15,,,Crawford Award Fund Contribution
+3/13/2017,"$11,735.78 ",144,$182.52 ,S. D. ,,C3,SP17,,Reimbursement for BEST_MATH_ORG_EVER S17meeting postcards
+3/31/2017,"$11,553.26 ",145,$200.00 ,S. W.,,C13,,,BEST_MATH_ORG_EVER Student Paper Competiton Winner's Award
+3/31/2017,"$11,353.26 ",,$200.00 ,,,C13,SP17,,"BEST_MATH_ORG_EVER prize money for 4 ""early registration"" drawing winners"
+4/3/2017,"$11,153.26 ",,,,$250.00 ,B6,SP17,,Vendor Fee from Pearson for S17 meeting at Kolmogorov
+4/3/2017,"$11,403.26 ",,,,"$1,116.50 ",B3,SP17,,BEST_MATH_ORG_EVER On Site fees from S17 meeting (Kolmogorov)
+4/3/2017,"$12,519.76 ",,,,"$2,980.66 ",B3,SP17,,BEST_MATH_ORG_EVER Fees for S17 meeting transferred from PayPal
+4/3/2017,"$15,500.42 ",147**,$44.52 ,J. J.,,C8,SP17,,Reimbursement for picture frames for student speaker certificates S17
+4/3/2017,"$15,455.90 ",148,$50.00 ,M. F.,,C8,SP17,,Reimbursement for Student Competition materials S17
+4/3/2017,"$15,405.90 ",149,$69.55 ,R. G.,,C9,SP17,,Reimbursement of speaker travel expenses for S17
+4/6/2017,"$15,336.35 ",150,"$1,367.93 ",D. K.,,C9,SP17,,Reimbursement of speaker travel expenses for S17
+4/13/2017,"$13,968.42 ",151,"$2,689.39 ",Kolmogorov University,,C8,SP17,,Payment for S17 BEST_MATH_ORG_EVER meeting (catering & tech support)
+4/14/2017,"$11,279.03 ",,,,$68.00 ,B3,SP17,,Late arrival registration fee for S17 meeting 
+4/26/2017,"$11,347.03 ",,,,$52.00 ,B3,SP17,,Late arrival registration fee for S17 meeting 
+5/10/2017,"$11,399.03 ",152,"$1,000.00 ",MOTHER_INSTITUTION (c/o M. P.),,C15,,,Crawford Award Fund Contribution
+7/10/2017,"$10,399.03 ",,,,$250.00 ,B6,FA17,,Vendor Fee from Hawkes Learning for F17 meeting at Shannon
+10/2/2017,"$10,649.03 ",,,,"$1,433.00 ",B1,,,MOTHER_INSTITUTION Subvention and Travel Reimbursement Check
+10/10/2017,"$12,082.03 ",,,,$175.00 ,B15,FA17-CC,,Registration Fees for Careers Conference (from Bohr University)
+11/15/2017,"$12,257.03 ",,,,"$5,048.60 ",B15,FA17-CC,,Careers Conference fees transferred from PayPal (Minkowski University)
+11/15/2017,"$17,305.63 ",,,,"$3,128.29 ",B3,FA17,,BEST_MATH_ORG_EVER Section Fees for F17 meeting transferred from PayPal
+11/15/2017,"$20,433.92 ",,$386.31 ,S. D. ,,C3,FA17,,Reimbursement for BEST_MATH_ORG_EVER F17 meeting postcards (direct from PayPal)
+11/16/2017,"$20,047.61 ",,$206.95 ,L.M.,,C13,,,Remibursement for Student Paper Award gift cards (direct from PNC)
+11/17/2017,"$19,840.66 ",153,$585.00 ,PCTM,,C8,FA17-CC,,Careers Conference PCTM members fees collected (Minkowski University)
+11/20/2017,"$19,255.66 ",154,"$3,622.85 ",Minkowski University,,C8,FA17-CC,,Careers Conference Catering Bill (Minkowski University)
+11/20/2017,"$15,632.81 ",155,$31.80 ,J. J.,,C8,FA17,,Reimbursement for picture frames for student speaker certificates F17
+11/20/2017,"$15,601.01 ",156,$23.98 ,K. R.,,C8,FA17,,Remimbursement for materials for student activity at F17 meeting
+11/20/2017,"$15,577.03 ",157,$71.92 ,B. S.,,C8,FA17,,Remimbursement for materials for student activity at F17 meeting
+11/20/2017,"$15,505.11 ",158,$147.06 ,E. B.,,C8,FA17,,Reimbursement for speaker dinner fees for F17
+11/20/2017,"$15,358.05 ",159,$133.10 ,F. M.,,C9,FA17,,Reimbursement of speaker travel expenses for F17
+11/21/2017,"$15,224.95 ",,,,$590.00 ,B15,FA17-CC,,BEST_MATH_ORG_EVER On-site Fees for F17 Careers Conference 
+11/21/2017,"$15,814.95 ",,,,$70.00 ,B3,FA17,,BEST_MATH_ORG_EVER U.S. Mail payments for F17 meeting (Shannon)
+11/21/2017,"$15,884.95 ",,,,"$1,000.00 ",B3,FA17,,BEST_MATH_ORG_EVER On Site fees from F17 meeting (Shannon)
+11/27/2017,"$16,884.95 ",,,,$103.00 ,B3,FA17,,BEST_MATH_ORG_EVER Silent Auction Proceeds for F17
+12/4/2017,"$16,987.95 ",160,$912.82 ,E. L.,,C9,FA17,,Reimbursement of speaker travel expenses for F17
+12/5/2017,"$16,075.13 ",,,,$2.00 ,B10,FA17,,MOTHER_INSTITUTION Spring 2017 Book Sales
+1/17/2018,"$16,077.13 ",161,"$2,342.20 ",Chartwells Dining Service,,C8,FA17,,Payment for F17 BEST_MATH_ORG_EVER meeting (catering)
+1/17/2018,"$13,734.93 ",162,$164.70 ,Shannon University,,C8,FA17,,Payment for F17 BEST_MATH_ORG_EVER meeting (copying & supplies)
+2/5/2018,"$13,570.23 ",163,"$2,000.00 ",MOTHER_INSTITUTION (c/o M. P.),,C15,,,Crawford Award Fund Contribution
+3/23/2018,"$11,570.23 ",,,,"$2,669.17 ",B3,SP18,,BEST_MATH_ORG_EVER Section Fees for S18 meeting transferred from PayPal
+3/26/2018,"$14,239.40 ",164,$120.00 ,M. F.,,C8,SP18,,Reimbursement for Student Competition gift cards S18
+3/26/2018,"$14,119.40 ",165,$68.35 ,X. C.,,C8,SP18,,Reimbursement for speaker dinner fees S18
+3/26/2018,"$14,051.05 ",166,$17.00 ,Turing Mathematics,,C9,SP18,,Reimbursement of speaker parking fee (G. Gordon) S18
+3/27/2018,"$14,034.05 ",,,,"$1,510.00 ",B3,SP18,,BEST_MATH_ORG_EVER On Site fees from S18 meeting (Turing)
+3/27/2018,"$15,544.05 ",,,,$170.00 ,B3,SP18,,BEST_MATH_ORG_EVER U.S. Mail payments for S18 meeting (Turing)
+3/27/2018,"$15,714.05 ",,,,$153.00 ,B3,SP18,,BEST_MATH_ORG_EVER Silent Auction Proceeds for S18
+4/27/2018,"$15,867.05 ",167,"$4,874.94 ",Turing University ,,C8,SP18,,Payment for S18 BEST_MATH_ORG_EVER meeting (catering & supplies)
+5/4/2018,"$10,992.11 ",169,"$2,500.00 ",MOTHER_INSTITUTION,,C15,,,Sponsorship of Project NExT Fellow 2018 - 2019
+6/28/2018,"$8,492.11 ",,,,$500.00 ,,,,Anonymous Contribution for BEST_MATH_ORG_EVER New Teacher Award
+7/2/2018,"$8,992.11 ",170,$53.00 ,J. J.,,C8,SP18,,Reimbursement for picture frames for student speaker certificates S18 (lost receipt found)
+10/9/2018,"$8,939.11 ",168,$728.20 ,Wiles University,,C8,FA18,,Downpayment for F18 meeting at Wiles University
+11/1/2018,"$8,210.91 ",171,$200.00 ,B. S.,,C13,,,BEST_MATH_ORG_EVER Student Paper Competiton Winner's Award
+11/2/2018,"$8,010.91 ",,,,"$4,162.78 ",B3,FA18,,BEST_MATH_ORG_EVER Section Fees for F18 meeting transferred from PayPal
+11/5/2018,"$12,173.69 ",,,,"$2,020.00 ",B3,FA18,,BEST_MATH_ORG_EVER On Site fees from F18 meeting (Wiles)
+11/5/2018,"$14,193.69 ",,,,$225.00 ,B3,FA18,,BEST_MATH_ORG_EVER Silent Auction Proceeds for F18
+11/5/2018,"$14,418.69 ",172,$232.90 ,L. M.,,C8,FA18,,Reimbursement for speaker dinner fees F18
+11/5/2018,"$14,185.79 ",173,$62.00 ,A. N.,,C9,FA18,,Reimbursement of speaker travel expenses for F18 (mileage)
+11/6/2018,"$14,123.79 ",174,$90.00 ,M. F.,,C8,FA18,,Reimbursement for Student Activity gift cards F18
+11/9/2018,"$14,033.79 ",175,$153.06 ,X. C.,,C8,FA18,,Reimbursement for speaker dinner fees
+11/23/2018,"$13,880.73 ",,,,$14.00 ,B3,FA18,,Late payment for BEST_MATH_ORG_EVER Silent Auction F18
+12/11/2018,"$13,894.73 ",176,"$2,569.95 ",Wiles University,,C8,FA18,,Payment for F18 BEST_MATH_ORG_EVER meeting (catering & supplies)
+1/10/2019,"$11,324.78 ",,,,"$1,327.00 ",B1,,,MOTHER_INSTITUTION Subvention Check
+3/25/2019,"$12,651.78 ",,,,"$3,316.61 ",B3,SP19,,BEST_MATH_ORG_EVER Section Fees for S19 meeting transferred from PayPal
+3/25/2019,"$15,968.39 ",,,,$510.00 ,B3,SP19,,BEST_MATH_ORG_EVER On Site fees from S19 meeting (Klein)
+3/25/2019,"$16,478.39 ",,,,$105.00 ,B3,SP19,,BEST_MATH_ORG_EVER Silent Auction Proceeds for S19
+3/26/2019,"$16,583.39 ",178**,$634.53 ,C. M.,,C9,SP19,,Reimbursement of speaker travel expenses for S19
+3/26/2019,"$15,948.86 ",179,$91.97 ,M. F.,,C8,SP19,,Reimbursement for Student Activity prizes S19
+3/26/2019,"$15,856.89 ",180,$901.81 ,T. C.,,C9,SP19,,Reimbursement of speaker travel expenses for S19
+3/28/2019,"$14,955.08 ",181,$63.54 ,E. F.,,C8,SP19,,Reimbursement for student speaker certificate materials S19 
+3/28/2019,"$14,891.54 ",182,$419.28 ,R. L.,,C9,SP19,,Reimbursement of speaker travel expenses for S19
+4/1/2019,"$14,472.26 ",183,"$2,031.30 ",Klein College,,C8,SP19,,Payment for S19 BEST_MATH_ORG_EVER meeting (catering & supplies)
+4/1/2019,"$12,440.96 ",184,$386.94 ,J. J.,,C8,SP19,,Reimbursement for Speaker Dinner fees and name tags
+10/11/2019,"$12,054.02 ",185,$627.72 ,B. B.,,C9,FA19-CC,,Speaker Travel Expenses (Project NExT at Careers Conference*)
+10/16/2019,"$11,426.30 ",,,,$250.00 ,B6,FA19,,Vendor Fee from Hawkes Learning for F19 meeting at Darwin
+10/16/2019,"$11,676.30 ",,,,$390.00 ,B3,FA19-CC,,Registration Fees for Careers Conference (from Kolmogorov University)
+10/16/2019,"$12,066.30 ",,,,"$2,810.13 ",B3,FA19-CC,,Careers Conference fees transferred from PayPal (Kolmogorov University)
+10/16/2019,"$14,876.43 ",186,"$1,946.35 ",Kolmogorov University,,C8,FA19-CC,,Careers Conference Catering Bill (Kolmogorov University)
+11/12/2019,"$12,930.08 ",,,,"$3,971.66 ",B3,FA19,,BEST_MATH_ORG_EVER Section Fees for F19 meeting transferred from PayPal
+11/12/2019,"$16,901.74 ",187,$66.20 ,E. F.,,C8,FA19,,Reimbursement for student speaker certificate materials F19 
+11/13/2019,"$16,835.54 ",,,,$490.00 ,B3,FA19,,BEST_MATH_ORG_EVER On Site fees from F19 meeting (Darwin)
+11/13/2019,"$17,325.54 ",,,,$147.00 ,B10,FA19,,BEST_MATH_ORG_EVER Silent Auction Proceeds for F19
+11/13/2019,"$17,472.54 ",188,$495.19 ,D. K.,,C9,FA19,,Reimbursement of speaker travel expenses for F19
+12/19/2019,"$16,977.35 ",189,"$2,734.18 ",Darwin University,,C8,FA19,,Payment for F19 BEST_MATH_ORG_EVER meeting (catering & supplies)
+12/31/2019,"$14,243.17 ",,,Spreadsheet Correction,$20.00 ,,,,"From as far back as the PNC online records go (5/1/2018), we have $20 more in the online account than in this spreadsheet. KR is correcting this with this line item"
+12/31/2019,"$14,263.17 ",,,Spreadsheet Correction,$0.01 ,B1,,,The MOTHER_INSTITUTION transferred in a cent before giving us our subvention check on 1/18/2019
+2/20/2020,"$14,263.18 ",,,,"$1,920.00 ",B1,,,MOTHER_INSTITUTION Subvention Check
+3/16/2020,"$16,183.18 ",,$250.00 ,S. D. ,,C8,SP20,,"SP20 Pandemic losses:  We lost $59.99 in non-returned fees, and we spent $158.13 on postcards. So the total loss is $218.12.  Sean transferred $250 to PayPal to cover this.  "
+5/18/2020,"$15,933.18 ",190,$225.00 ,B. S.,,C13,SP20,,Reimbursement for video competition awards S20
+11/11/2020,"$15,708.18 ",191,$50.00 ,M. F.,,C8,SP20,,Reimbursement for Student Activity prizes S19
+11/11/2020,"$15,658.18 ",192,$250.00 ,A. M.,,C2,FA20,,Speaker Honorarium - Fall 2020 Virtual Meeting
+11/11/2020,"$15,408.18 ",193,$250.00 ,S. G.,,C2,FA20,,Speaker Honorarium - Fall 2020 Virtual Meeting
+11/11/2020,"$15,158.18 ",,$500.00 ,Transfer to Pay Pal,,N/A,,,We transferred money to PayPal thinking we could use PayPal to pay for the early registrant gift prizes.  Turns out we can't so we'll transfer it back when it goes through
+11/16/2020,"$14,658.18 ",195,$500.00 ,T. W.,,C13,,,Early Teaching Career Award Prize
+11/29/2020,"$14,158.18 ",194,$500.00 ,K. R.,,C8,FA20,,"Reimbursement for ten $50 prizes given to 10 early registrants (The vice chair was emailed the receipt to verify the legitimacy of this, since I wrote the check to myself.)"
+12/1/2020,"$13,658.18 ",,,Transfer back from Pay Pal,$500.00 ,N/A,,,See note on 11/11 -> We undid our transfer to PayPal
+2/16/2021,"$14,158.18 ",,,,"1,089.00",B1,,,MOTHER_INSTITUTION Subvention Check
+4/19/2021,"$15,247.18 ",196,$250.00 ,S. J. C.,,C2,SP21,,Speaker Honorarium - Spring 2021 Virtual Meeting
+4/19/2021,"$14,997.18 ",197,$250.00 ,A. W.,,C2,SP21,,Speaker Honorarium - Spring 2021 Virtual Meeting
+4/19/2021,"$14,747.18 ",198,$500.00 ,D. E.,,C13,SP21,,Section Service Award
+4/17/2021,"$14,247.18 ",199,$500.00 ,S. D. ,,C8,SP21,,Reimbursement for ten $50 prizes (amazon gift cards) given to 10 early registrants 
+9/22/2021,"$13,747.18 ",PayPal Transfer,$200.00 ,B.J. via PayPal,,C13,,,"BEST_MATH_ORG_EVER Student Paper Competiton Winner's Award 2020
+This was transferred to PayPal in order to Pay B.J. because B.J. had moved back to Korea by the time he was given the award.  FYI: We paid a fee of 4.99 in PayPayl to do the transfer but that was eaten by some leftover funds in PayPal."
+9/18/2021,"$13,547.18 ",201,$200.00 ,I. R.,,C13,,,BEST_MATH_ORG_EVER Student Paper Competiton Winner's Award 2021
+11/16/2021,"$13,347.18 ",202,$250.00 ,A. A. ,,C2,FA21,,Speaker Honorarium - Fall 2021 Virtual Meeting
+11/16/2021,"$13,097.18 ",203,$250.00 ,M. L.,,C2,FA21,,Speaker Honorarium - Fall 2021 Virtual Meeting
+11/16/2021,"$12,847.18 ",204,$500.00 ,S. D. ,,C8,FA21,,Reimbursement for ten $50 prizes (amazon gift cards) given to 10 early registrants 
+3/14/2022,"$12,347.18 ",,,,"$1,058.00 ",B1,,,MOTHER_INSTITUTION Subvention Check
+4/2/2022,"$13,405.18 ",205,$250.00 ,T. H.,,C2,SP22,,Speaker Honorarium - Spring 2021 Virtual Meeting
+4/2/2022,"$13,155.18 ",206,$250.00 ,Tai-D. B.,,C2,SP22,,Speaker Honorarium - Spring 2021 Virtual Meeting
+4/2/2022,"$12,905.18 ",,$0.00 ,B. S. ,,C13,SP22,,Section Service Award - Bob Donated it back to us and opted not to take it
+4/2/2022,"$12,905.18 ",207,$500.00 ,S. D. ,,C8,SP22,,Reimbursement for ten $50 prizes (amazon gift cards) given to 10 early registrants 
+,"$12,405.18 ",208,$200.00 ,S. R.,,C13,,,BEST_MATH_ORG_EVER Student Paper Competiton Winner's Award 2022
+11/5/2022,"$12,205.18 ",209,$90.00 ,M. F.,,C8,FA22,Student_Actvity,Reimbursement for Student Competition Prizes Fall 2022 at Berks
+11/5/2022,"$12,115.18 ",210,$647.08 ,D. D.,,C9,FA22,,Reimbursement of speaker travel expenses for F22
+11/5/2022,"$11,468.10 ",211,$96.25 ,J. G.,,C9,FA22,,Reimbursement of speaker travel expenses for F22
+12/31/2022,"$11,371.85 ",PayPal Transfer,,,"$3,540.66 ",B3,FA22,,BEST_MATH_ORG_EVER registration fees for F22 meeting transferred from PayPal (Pascal Babbage)
+12/31/2022,"$14,912.51 ",In person deposit,,,$95.00 ,B10,FA22,,BEST_MATH_ORG_EVER Silent Auction Proceeds for F22 
+12/31/2022,"$15,007.51 ",213,"$2,696.75 ",The Poincar‚ State University,,C8,FA22,Catering_Facilities,Payment for F22 BEST_MATH_ORG_EVER meeting (catering)
+12/31/2022,"$12,310.76 ",212,$122.00 ,C. M. G.,,C8,FA22,Speaker_Dinner_PickUp,Reimbursement for speaker dinner fees F22
+4/13/2023,"$12,188.76 ",214,$885.66 ,K. R.,,C14,,,Special Folders for awards/certificates that have BEST_MATH_ORG_EVER logo
+4/14/2023,"$11,303.10 ",215,$232.96 ,S. P.,,C8,SP23,Speaker_Dinner_PickUp,Reimbursement for speaker dinner fees SP 23 (Talea)
+4/15/2023,"$11,070.14 ",217,$150.00 ,S. D. ,,C8,SP23,Speaker_Dinner_PickUp,Reimbursement for speaker dinner fees SP 23 (Doug)
+4/15/2023,"$10,920.14 ",218,$500.00 ,A. C.,,C13,SP23,,Section Service Award
+4/18/2023,"$10,420.14 ",219,$113.18 ,M. F.,,C8,SP23,Student_Actvity,Reimbursement for Student Activity Purchases SP 2023 at Brandywine
+4/18/2023,"$10,306.96 ",220,$64.48 ,S. P.,,C8,SP23,Badges,Badges for SP 23 meeting
+4/18/2023,"$10,242.48 ",PayPal Transfer,$119.88 ,Dropbox,,C14,,,For year long subscription (we have photos we're storing)
+4/18/2023,"$10,122.60 ",PayPal Transfer,,,"$3,694.70 ",B3,SP23,,BEST_MATH_ORG_EVER registration fees for SP23 meeting transferred from PayPal (Pascal Bernoulli) 
+4/18/2023,"$13,817.30 ",223,"$2,812.50 ",Pascal Housing and Food Services,,C8,SP23,Catering_Facilities,Payment for SP23 BEST_MATH_ORG_EVER meeting (catering)
+4/18/2023,"$11,004.80 ",224,$15.45 ,L.M.,,C8,SP23,Misc,Frames for Service Award Winner
+5/1/2023,"$10,989.35 ",225,$203.99 ,D. E.,,C9,SP23,,Reimbursement of speaker travel expenses for  SP23
+5/12/2023,"$10,785.36 ",,,,956.12,B1,,,MOTHER_INSTITUTION Subvention Check
+9/29/2023,"$11,741.48 ",PayPal Payment,$184.03 ,Click2Mail,,C3,FA23,,"Reimbursement for BEST_MATH_ORG_EVER F23 meeting postcards (This charge appears not in PNC but in PayPal - see Payment to ""Click2Mail"" on 9/29/23) - neighbor section will not pay for "
+10/30/2023,"$11,557.45 ",PayPal Transfer,,,"2,064.03",B3,FA23-CC,,"BEST_MATH_ORG_EVER registration fees for FA23-CC meeting transferred from PayPal (Minkowski)  - NOTE:  The amount shows in PNC as 1,880.00 on 10/31/23.  
+However, we used 184.03 to pay for the poste cards in the previous cell. 
+ So I added that amount on here.  We used some of the registration fees to pay for the post cards for the next meeting."
+11/14/2023,"$13,621.48 ",227,$480.90 ,S. D. ,,C8,FA23,Speaker_Dinner_PickUp,Reimbursement for speaker dinner fees FA 23  - neighbor section will split
+11/14/2023,"$13,140.58 ",228,$612.94 ,J. C.,,C9,FA23,,Reimbursement of speaker travel expenses for FA23
+11/21/2023,"$12,527.64 ",229,$200.00 ,M. F.,,C8,FA23,Student_Actvity,Reimbursement for Student Activity Purchases FA 2023 Prizes at Volta- neighbor section will not pay for 
+11/29/2023,"$12,327.64 ",230,$353.64 ,J. R.,,C9,FA23,,Reimbursement of speaker travel expenses for FA23
+12/13/2023,"$11,974.00 ",231,"$3,642.32 ",Minkowski University,,C8,FA23-CC,Catering_Facilities,"Payment for F23 Careers Conference meeting (catering, room charges, service charges)"
+12/18/2023,"$8,331.68 ",In person deposit,,,$83.00 ,B10,FA23,,BEST_MATH_ORG_EVER Silent Auction Proceeds for F23/SP23
+1/29/2024,"$8,414.68 ",233,"$1,618.54 ",Volta University's Department of Mathematics/Statistics,,C8,FA23,Catering_Facilities,"Payment to Volta Dept. of Mathematics and Statistics for FA23 BEST_MATH_ORG_EVER meeting (tags, signs, hotels, room cleaning)"
+1/29/2024,"$6,796.14 ",234,"$3,419.47 ",Volta University's Conference Services,,C8,FA23,Catering_Facilities,Payment to Volta University's Conference Serives for FA23 BEST_MATH_ORG_EVER meeting (catering/dining/rental of activity spaces)
+1/29/2024,"$3,376.67 ",,,,$120.00 ,B10,FA23,,"BEST_MATH_ORG_EVER Silent Auction Proceeds for F23/SP23 
+This was included with the Paypal transfer and so not a separate line item- neighbor section will not split"
+1/29/2024,"$3,496.67 ",PayPal Transfer,,,"$4,404.08 ",B3,FA23,,"BEST_MATH_ORG_EVER registration fees for FA23 meeting transferred from PayPal (Volta) 
+FYI:  Shows as $4524.08 in PNC because 120 of this was for silent auction (see previous line item - I was able to add the 120 to the paypal account)"
+1/31/2024,"$7,900.75 ",,,,$215.80 ,B15,FA23,,What neighbor section owed us for splitting the meeting
+3/19/2024,"$8,116.55 ",235,$161.48 ,S. D.,,C3,SP24,,Reimbursement for BEST_MATH_ORG_EVER S24 meeting postcards 
+3/21/2024,"$7,955.07 ",,,,$800.80 ,B1,,,MOTHER_INSTITUTION Subvention Check
+4/9/2024,"$8,755.87 ",236,$11.32 ,L.M.,,C8,SP24,Misc,Office Supplies for Service Award Winner
+4/13/2024,"$8,744.55 ",237,$250.00 ,A. L. ,,C13,SP24,,Early Teaching Career Award Prize - join this year - split between 2
+4/13/2024,"$8,494.55 ",238,$250.00 ,J. Z. (Laplace),,C13,SP24,,Early Teaching Career Award Prize - join this year - split between 2
+4/17/2024,"$8,244.55 ",240,$102.66 ,M. F.,,C8,SP24,Student_Actvity,Reimbursement for Student Activity Purchases SP24 meeting at Archimedes
+4/26/2024,"$8,141.89 ",241,$497.20 ,M. J.,,C9,SP24,,Reimbursement of speaker travel expenses for SP24
+4/30/2024,"$7,644.69 ",242,$86.39 ,C. C.,,C8,SP24,Badges,Reimbursement for purchase of badges at Staples
+4/30/2024,"$7,558.30 ",246,"$2,163.95 ",Archimedes College,,C8,SP24,Catering_Facilities,Payment to Alrbight's Conference Serives for SP24 BEST_MATH_ORG_EVER meeting (catering)
+4/30/2024,"$5,394.35 ",245,$250.99 ,B. O.,,C8,SP24,Speaker_Dinner_PickUp,Reimbursement for speaker dinner fees and travel to/from airport to get speaker (airport was 1.5 hours from hosts)
+4/14/2024,"$5,143.36 ",,,,166.47,B10,SP24,,BEST_MATH_ORG_EVER Silent Auction Proceeds for FA24 (was 173 but collected via PayPal who took a cut of the Pay)
+4/16/2024,"$5,309.83 ",PayPal Transfer,119.88,Dropbox,,C14,,,"Dropbox - For year long subscription (we have photos we're storing)
+Shows as 199.88 in the pnc account/paypal line items because that's what we thought it would cost. In the future, we should not transfer funds until we know the exact funds to prevent this confusion."
+8/13/2024,"$5,189.95 ",PayPal Transfer,,,"2,843.52",B3,SP24,,"BEST_MATH_ORG_EVER registration fees for SP24 meeting transferred from PayPal (Archimedes) 
+Shows as 2923.52 in PayPal BUT: 
+Dropbox cost 119.88 - that's on prev line
+we accidentally transferred 199.88 for the dropbox fee (we incorrectly estimated it) "
+10/8/2024,"$8,033.47 ",281,$166.79 ,S. D.,,C3,FA24,,Reimbursement for BEST_MATH_ORG_EVER F24 meeting postcards 
+11/2/2024,"$7,866.68 ",282,$500.00 ,S. P.,,C13,FA24,,Early Teaching Career Award Prize
+12/4/2024,"$7,366.68 ",247,$200.00 ,I. R. - desposited Jan 25,,C13,,,BEST_MATH_ORG_EVER Student Paper Competiton Winner's Award 2024
+12/4/2024,"$7,166.68 ",261,"$3,639.01 ",,,C8,FA24,,"Payment to Pascal for FA24 BEST_MATH_ORG_EVER meeting (catering, badges, janitorial at Pascal Abel campus)"
+12/4/2024,"$3,527.67 ",,,,"$3,083.95 ",B3,FA24,,BEST_MATH_ORG_EVER registration fees for FA24 meeting transferred from PayPal (Pascal Pascal Abel) 
+3/26/2025,"$6,611.62 ",248,$10.59 ,L.M.,,C8,SP25,Misc,Office Supplies for Service Award Winner
+3/29/2025,"$6,601.03 ",249,$0.00 ,G. B. B.,,C13,SP25,,Gave G. B. B. a $250 check for the Service Award and he donated it back
+3/29/2025,"$6,601.03 ",250,$100.00 ,B. S.,,,SP25,,Student Activity -- 4 winners were each given a $25 Amazon card
+3/29/2025,"$6,501.03 ",,,,"$3,211.56 ",B3,SP25,,BEST_MATH_ORG_EVER registration fees for FA24 meeting transferred from PayPal (Pascal Pascal Abel) 
+4/4/2025,"$9,712.59 ",254,$256.20 ,P. S.,,C9,SP25,,Reimbursement of speaker travel expenses for SP25 
+4/4/2025,"$9,456.39 ",253,$80.00 ,Mandelbrot University - CMP,,C9,SP25,,Speaker Lodging - Check 253 was for 2918.03 but Mandelbrot rented a room on campus for the speaker for $80 for 1 night. I wanted that to be on a separate line to track speaker costs.
+4/4/2025,"$9,376.39 ",253,"$2,838.03 ",Mandelbrot University - CMP,,C8,SP25,Catering_Facilities,Payment to Mandelbrot University for SP25 BEST_MATH_ORG_EVER meeting (dining and rooms) - see above note
+4/4/2025,"$6,538.36 ",,,,$334.46 ,C8,SP25,Catering_Facilities,Mandelbrot reimbursed us for some overchargers (actually deposited in June 2025)
+4/4/2025,"$6,872.82 ",257,$246.40 ,D. N.,,C9,SP25,,Reimbursement of speaker travel expenses for SP25  - mileage
+4/4/2025,"$6,626.42 ",256,$33.71 ,D. N.,,C9,SP25,,Reimbursement of speaker travel expenses for SP25  - dinner receipt
+4/4/2025,"$6,592.71 ",,,,$25.00 ,B3,SP25,,One registration was paid for in cash (was transferred in from Pay Pal with the next line item so this does not show on its own in PNC/PayPal). 
+4/4/2025,"$6,617.71 ",,,$196.93 ,$171.93 ,B10,SP25,,"BEST_MATH_ORG_EVER Silent Auction Proceeds for SP25 (was transferred in from Pay Pal with the previous line item  so shows as 196.93 in paypal after the cut taken from the 203 bill in Pay Pal, so this amt does not show on its own in PNC/PayPal.) 
+196.93 - 25 (above cell) - 119.88 (below cell) = 77.05 (PNC shows this amt transferred in)"
+4/16/2025,"$6,789.64 ",PayPal Transfer,119.88,Dropbox,,C14,,,"Dropbox - For year long subscription (we have photos we're storing)
+Shows in pay pal.
+196.93 - 25 - 119.88 = 77.05 (PNC shows this amt transferred in)"
+4/17/2025,"$6,669.76 ",,,,$829.13 ,B1,,,MOTHER_INSTITUTION Subvention Check
+9/3/2025,"$7,498.89 ",283,$161.39 ,S. D.,,C3,FA25,,Reimbursement for BEST_MATH_ORG_EVER FA25 meeting postcards 
+10/8/2025,"$7,337.50 ",,,,$83.00 ,,FA25,,BEST_MATH_ORG_EVER Silent Auction Proceeds for FA25 (transferred in by PayPal)
+10/21/2025,"$7,420.50 ",258,$100.00 ,M. F.,,C8,FA25,Student_Actvity,Reimbursement for Student Activity Purchases FA25 meeting at Young
+10/24/2025,"$7,320.50 ",259,$77.67 ,Young College of Math,,C8,FA25,Badges,Badges for FA25 meeting
+10/24/2025,"$7,242.83 ",,"$1,227.60 ",Young College of Math,,C8,FA25,,Payment to Young College for BEST_MATH_ORG_EVER meeting (catering)
+10/24/2025,"$6,015.23 ",,,,"$2,791.08 ",B3,FA25,,BEST_MATH_ORG_EVER registration fees for FA25 meeting transferred from PayPal (Young College of PA) 
+10/24/2025,"$8,806.31 ",260,$100.00 ,"G. F., speaker",,C2,FA25,,Speaker Honorarium in lieu of gas reimbursement - Fall 2025 Meeting
+10/28/2025,"$8,706.31 ",261,$100.00 ,"Dr. L.M., speaker",,C2,FA25,,Speaker Honorarium in lieu of gas reimbursement - Fall 2025 Meeting
+balance,"$8,606.31 ",matches till line item 10/21/25,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+* Project TEACH has $808.70 earmarked from old grant,,,, ,,,,,
+"** Checks 134, 146, 177, 216, 221, 222, 226, 232, 239, 243, 246, 250, 251, 252, 254, 256 Voided & Destroyed (Treasurer's Bad Handwriting mostly)",,,,,,,,,
+"*** Thanks to B.B, $250 is slated towards student registrations",,,,,,,,,
