@@ -1,27 +1,27 @@
-MEETING_ID,SCHOOL,MEETING_DATE,DISTANCE_TO_MAIN
-SP19,Klein College,3/23/2019,112
-FA18,Wiles University,11/3/2018,31.7
-SP18,Turing University,3/24/2018,3.6
-FA17,Shannon University,11/18/2017,146
-SP17,Kolmogorov University,4/1/2017,74.0
-FA16,Volta University,11/12/2016,13.0
-SP16,M??bius College,4/2/2016,60.6
-FA15,Dirac Valley University,11/14/2015,38.2
-SP15,Fourier & Maxwell College,3/14/2015,80.4
-FA15-CC,Turing University,10/17/2015,3.6
-FA17-CC,Minkowski University of Pennsylvania,10/21/2017,73.2
-FA19-CC,Kolmogorov University,10/5/2019,74.0
-FA19,Darwin University,11/9/2019,51.4
-SP20,CANCELLED-COVID-Minkowski,3/28/2020,73.2
-FA20,Virtual,11/7/2020,
-SP21,Virtual,4/17/2021,
-FA21,Virtual,11/13/2021,
-SP22,Virtual,4/1/2022,
-FA22,Pascal Babbage,11/5/2022,65
-SP23,Pascal Bernoulli,4/15/2023,22.9
-FA23-CC,Minkowski University,10/28/2023,73.2
-FA23,Volta University,11/11/2023,13.0
-SP24,Archimedes College,4/13/2024,67.4
-FA24,Pascal Abel,11/2/2024,15.0
-SP25,Mandelbrot University,3/29/2025,113
-FA25,York College of Poincar??,10/4/2025,103
+MEETING_ID,SCHOOL,MEETING_DATE,DISTANCE_TO_MAIN,PRIVATE_1_PUBLIC_0
+SP19,Klein College,3/23/2019,112,1
+FA18,Wiles University,11/3/2018,31.7,0
+SP18,Turing University,3/24/2018,3.6,0
+FA17,Shannon University,11/18/2017,146,0
+SP17,Kolmogorov University,4/1/2017,74,0
+FA16,Volta University,11/12/2016,13,1
+SP16,M??bius College,4/2/2016,60.6,1
+FA15,Dirac Valley University,11/14/2015,38.2,1
+SP15,Fourier & Maxwell College,3/14/2015,80.4,1
+FA15-CC,Turing University,10/17/2015,3.6,0
+FA17-CC,Minkowski University of Pennsylvania,10/21/2017,73.2,0
+FA19-CC,Kolmogorov University,10/5/2019,74,0
+FA19,Darwin University,11/9/2019,51.4,1
+SP20,CANCELLED-COVID-Minkowski,3/28/2020,73.2,0
+FA20,Virtual,11/7/2020,,
+SP21,Virtual,4/17/2021,,
+FA21,Virtual,11/13/2021,,
+SP22,Virtual,4/1/2022,,
+FA22,Pascal Babbage,11/5/2022,65,0
+SP23,Pascal Bernoulli,4/15/2023,22.9,0
+FA23-CC,Minkowski University,10/28/2023,73.2,0
+FA23,Volta University,11/11/2023,13,1
+SP24,Archimedes College,4/13/2024,67.4,1
+FA24,Pascal Abel,11/2/2024,15,0
+SP25,Mandelbrot University,3/29/2025,113,1
+FA25,York College of Poincar??,10/4/2025,103,1
